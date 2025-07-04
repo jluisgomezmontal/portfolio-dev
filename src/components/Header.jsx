@@ -13,14 +13,13 @@ export const Header = ({ headerRef }) => {
         <div>
           <h2>About</h2>
           <p>
-            I'm a computer systems engineer, self-taught and constantly
-            learning, passionate about new technologies.
+            Software Engineer with 5 years of professional experience in dynamic, multicultural environments. Passionate about continuous learning and emerging technologies. Proven track record designing and developing scalable applications, with hands-on experience in modern frameworks and tools like React, Node.js, Express, and Redux. Skilled in Agile methodologies and collaborative team environments. Consistently deliver high-quality software solutions on time and within budget, aligning with business goals and client expectations.
           </p>
           <a
             target="_blank"
             without
             rel="noreferrer"
-            href="https://drive.google.com/file/d/1L4tVmR4dZPVstgPPc-y66KmSgLVCWyOB/view?usp=sharing"
+            href="https://drive.google.com/file/d/1SddtHKyiorQkceT1IHClC68XobObmgKj/view?usp=sharing"
           >
             Download C.V.
           </a>

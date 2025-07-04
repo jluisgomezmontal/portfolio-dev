@@ -132,8 +132,8 @@ export const Modal = ({ homeRef, headerClick }) => {
       <div ref={homeRef} className="modal">
         <div>
           <h3>
-            Hello, I'm <span>Jose Luis Gomez Montalvan</span>,<br />
-            I'm a front-end web developer.
+
+            Hi, I'm <span>Jose Luis Gomez</span>, Software Engineer <br />specialized in React, modern UI libraries, and performance-driven interfaces.
             <br />
           </h3>
 
